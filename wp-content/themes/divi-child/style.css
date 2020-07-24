@@ -1,0 +1,22 @@
+/* 
+Theme Name:		 A S Laumberg, Solicitor Theme
+Theme URI:		 http://www.elegantthemes.com/gallery/divi/
+Description:	 Divi Child is a child theme of Divi, created by ChildTheme-Generator.com
+Author:			 Elegant Themes
+Author URI:		 http://www.elegantthemes.com/gallery/divi/
+Template:		 Divi
+Version:		 1.0.2
+Text Domain:	 divi-child
+*/
+.post-meta{
+  display:none!important;
+ }
+#left-area {
+    width: 100%;
+	padding-bottom: 23px;
+}
+#main-content .container:before{
+	display:none;
+	
+
+}
